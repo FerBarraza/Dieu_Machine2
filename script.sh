@@ -13,9 +13,9 @@ apt-get update
 
 #apt-get upgrade
 
-apt-get install cmatrix
+apt-get install -y cmatrix
 
-apt-get install alsa-utils
+apt-get install -y alsa-utils
 
 ls
 
