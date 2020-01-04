@@ -12,6 +12,7 @@ sleep 1s
 apt-get update
 
 #apt-get upgrade
+apt-get install -y gcc
 
 apt-get install -y cmatrix
 
